@@ -8,6 +8,7 @@
 	<?php $name="Eren";echo "The name is $name";?>
 
 	<?php $name="Harelhax";echo "The name is "+$name;?>
+	<?php $sex="female";echo "His/Her sex is "+$sex;?>
 
 </body>
 
