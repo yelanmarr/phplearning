@@ -10,7 +10,7 @@
 	<?php $name="Harelhax";echo "The name is "+$name;?>
 	<?php $sex="female";echo "His/Her sex is "+$sex;?>
 	<ul>
-		<li></li>
+		<li>aaaaa</li>
 		<li></li>
 		<li></li>
 		<li></li>
