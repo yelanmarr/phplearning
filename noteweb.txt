@@ -1,0 +1,11 @@
+
+
+php
+
+双引号 找变量
+
+单引号不找
+
+CHROME
+
+CTRL+U  VIEW SCOURCE

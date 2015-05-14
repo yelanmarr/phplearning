@@ -5,15 +5,13 @@
 <body>
 	<h1>My Website</h1>
 	<?php echo "Hello World!";?>
-	<?php $name="Eren";echo "The name is $name";?>
+	
 
-	<?php $name="Harelhax";echo "The name is "+$name;?>
+	
 	<?php $sex="female";echo "His/Her sex is "+$sex;?>
 	<ul>
-		<li>aaaaa</li>
-		<li></li>
-		<li></li>
-		<li></li>
+		<li><?php $name1="Erenaaaa";echo "The name is $name1";?></li>
+		<li><?php $name2="Harelhax";echo "The name is "+$name2;?></li>
 	</ul>
 
 </body>
